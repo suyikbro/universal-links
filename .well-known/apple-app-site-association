@@ -1,1 +1,12 @@
 
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "M525HT47UF.com.metalligence.homesecurity",
+				"paths": [ "*"]
+			}
+		]
+	}
+}
